@@ -156,7 +156,7 @@ Model Context Protocol server connecting an LLM chatbot to live enterprise datab
 <tr>
 <td width="50%" valign="top">
 
-### TeaLens - Crop Instance Segmentation
+### Crop Instance Segmentation
 End-to-end vision system for agricultural imaging. Benchmarked segmentation architectures for the best accuracy-to-latency trade-off, then deployed to mobile and edge devices.
 
 `PyTorch` `YOLOv8/v11-seg` `U-Net` `SAM` `SAHI` `FastAPI` `Flutter`
