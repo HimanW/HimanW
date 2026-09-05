@@ -1,169 +1,238 @@
-<h1 align="center">Hi, I'm Himan Withana</h1>
+<div align="center">
 
-<h3 align="center">AI/ML Engineer · Generative AI & Computer Vision · Full-Stack AI Engineering</h3>
+# Himan Withana
 
-<p align="center">
-  <a href="https://himanwithana.dev"><img src="https://img.shields.io/badge/Portfolio-himanwithana.dev-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/himanwithana"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:himanhansadh.withana@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=HimanW&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<a href="https://himanwithana.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=AI%2FML+Engineer;Generative+AI+%26+LLM+Systems;Agentic+AI+%26+Tool-Calling;Computer+Vision+%26+Applied+ML;Full-Stack+AI+Engineering" alt="AI/ML Engineer, Generative AI, Computer Vision, Full-Stack AI Engineering" />
+</a>
+
+<p>
+I design, build, and ship AI systems that run in production.<br/>
+Over a year of industry experience turning models into products that serve real customers.
 </p>
 
----
+<p>
+  <a href="https://himanwithana.dev"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/himanwithana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:himanhansadh.withana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/d1v3xx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://orcid.org/0009-0004-3926-1125"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=HimanW&label=Profile%20views&color=0E75B6&style=flat-square" alt="Profile views" />
+
+</div>
+
+<br/>
+
+## What I Build
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### About
-
-I'm an **AI/ML Engineer** with over a year of full-time industry experience building production AI systems for enterprise clients.
-
-My work spans **generative AI and large language model applications**, **computer vision**, and the **full-stack engineering** needed to turn a model into a live product — backend services, integrations, and the interfaces on top.
-
-Most recently I architected the microservice backend behind a **multi-tenant enterprise RAG chatbot platform** running in production on AWS, and shipped its MCP tool-calling agent, omnichannel messaging integrations, and commercial subscription layer.
-
-Alongside this, I'm completing a **BSc (Hons) in AI and Data Science** with Robert Gordon University, researching uncertainty calibration in Bayesian optimization.
+### Enterprise AI Platforms
+Multi-tenant AI products with document ingestion, retrieval, entitlements, and billing. Architecture through to the customer-facing UI.
 
 </td>
-<td width="45%" valign="center" align="center">
+<td width="50%" valign="top">
 
-<img src="./animation.gif" alt="AI illustration" width="420" />
+### Generative AI & RAG
+Retrieval pipelines, prompt and grounding design, hallucination mitigation, and streaming inference over WebSocket and SSE.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Agentic AI & MCP
+Model Context Protocol servers that give LLMs live tool access to production databases and REST APIs.
+
+</td>
+<td width="50%" valign="top">
+
+### Computer Vision
+Detection and instance segmentation, architecture benchmarking, dataset engineering, and edge deployment.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### NLP & Machine Learning
+Intent classification, semantic search, embeddings, forecasting, and model evaluation against real baselines.
+
+</td>
+<td width="50%" valign="top">
+
+### Full-Stack AI Engineering
+FastAPI microservices, vector stores, third-party integrations, Vue/Nuxt frontends, Docker, and AWS.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### Currently
-
-- Building **RAG pipelines, LLM agents and MCP tool-calling servers** for enterprise products
-- Researching **uncertainty calibration in Gaussian Processes** and its effect on Bayesian optimization sample efficiency
-- Open to **AI/ML Engineer, AI Engineer and Applied AI Engineer** roles
-
----
-
-### Tech Stack
+## Tech Stack
 
 **Languages**
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-</p>
-
-**Machine Learning & Computer Vision**
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/YOLOv8%20%2F%20v11-111F68?style=for-the-badge" alt="YOLO" />
-<img src="https://img.shields.io/badge/Segment%20Anything-4B5563?style=for-the-badge" alt="SAM" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Generative AI & LLMs**
 
-<p>
-<img src="https://img.shields.io/badge/RAG-1F2937?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-2F5D50?style=for-the-badge" alt="LangGraph" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="Model Context Protocol" />
-</p>
+![RAG](https://img.shields.io/badge/RAG-1F2937?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2F5D50?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Backend & Data**
+**Machine Learning & Computer Vision**
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" alt="pgvector" />
-<img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus" />
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS" />
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8%20%2F%20v11-111F68?style=for-the-badge)
+![SAM](https://img.shields.io/badge/Segment%20Anything-4B5563?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Frontend, Cloud & DevOps**
+**Backend, Data & Infrastructure**
 
-<p>
-<img src="https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
-<img src="https://img.shields.io/badge/Nuxt%203-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+**Frontend**
 
-### Experience
+![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt 3](https://img.shields.io/badge/Nuxt%203-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Junior AI/ML Engineer** — Avya Technologies (Pvt) Ltd · *Feb 2026 – Aug 2026*
-> Architected the microservice backend behind a multi-tenant enterprise RAG chatbot platform serving live customers on AWS. Built the ingestion and retrieval pipeline, an MCP tool-calling agent over live enterprise data, WhatsApp and Meta Messenger integrations, and the subscription and payments layer behind the product's first paying customers.
+<br/>
 
-**Junior AI/ML Engineer, R&D** — Turbo Gen Consultancy (Pvt) Ltd · *Jul 2025 – Jan 2026*
-> Delivered an end-to-end computer vision instance segmentation system for agricultural imaging — architecture benchmarking, dataset and augmentation engineering, and deployment as a production inference service integrated into a mobile app. Built an automated annotation pipeline that cut manual labeling effort substantially.
+## Featured Work
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Selected Work
+### Enterprise RAG Chatbot Platform
+Multi-tenant AI SaaS running in production on AWS. Five-service backend covering ingestion, embedding, retrieval, and conversation, plus subscription billing and an embeddable widget shipped on client sites.
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **Enterprise RAG Chatbot Platform** | Multi-tenant SaaS chatbot with document ingestion, streaming responses, omnichannel messaging and subscription billing | Python · FastAPI · LangChain · Milvus · PostgreSQL · Docker · AWS · Nuxt 3 |
-| **MCP Tool-Calling Agent** | MCP server connecting an LLM chatbot to live enterprise databases and REST APIs for real-time operational answers | Python · MCP · PostgreSQL · LLM tool calling |
-| **TeaLens — Crop Segmentation** | Instance segmentation for agricultural imaging, deployed to mobile and edge devices | PyTorch · YOLOv8/v11-seg · U-Net · SAM · SAHI · FastAPI · Flutter |
-| **Agentic Data Extraction** | Autonomous LLM agent turning natural-language instructions into multi-step web automation plans | Python · LangChain · LangGraph · Playwright |
-| **AI Waste Management** 🥇 | NLP-driven waste collection platform with demand forecasting and route optimization — 1st place, Cutting Edge 2025 | Python · BiLSTM · LangChain · FAISS · Flask |
+`Python` `FastAPI` `LangChain` `Milvus` `PostgreSQL` `Docker` `AWS` `Nuxt 3`
 
----
+</td>
+<td width="50%" valign="top">
 
-### Education & Research
+### MCP Tool-Calling Agent
+Model Context Protocol server connecting an LLM chatbot to live enterprise databases and REST APIs, moving it from static document search to real-time operational answers.
 
-**BSc (Hons) Artificial Intelligence and Data Science** — Robert Gordon University, Aberdeen, UK
-*Delivered at Informatics Institute of Technology, Colombo · 2023 – 2027 (Expected)*
+`Python` `MCP` `PostgreSQL` `REST APIs` `LLM Tool Calling`
 
-**Individual Research Project** — *Uncertainty Calibration in Bayesian Optimization*
-Investigating how miscalibrated model uncertainty degrades the sample efficiency of automated optimization, and which recalibration methods best recover it.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Recognition** — 1st Place, Cutting Edge 2025 (VisionQuest) · Nominee, National ICT Awards (NBQSA) 2025 · IEEEXtreme 18.0
+### TeaLens - Crop Instance Segmentation
+End-to-end vision system for agricultural imaging. Benchmarked segmentation architectures for the best accuracy-to-latency trade-off, then deployed to mobile and edge devices.
 
----
+`PyTorch` `YOLOv8/v11-seg` `U-Net` `SAM` `SAHI` `FastAPI` `Flutter`
 
-### GitHub Stats
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanW&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanW&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
-</p>
+### Agentic Data Extraction
+Autonomous LLM agent that decomposes natural-language instructions into multi-step web automation plans, with structured output and recovery from failures.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HimanW&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+`Python` `LangChain` `LangGraph` `Playwright`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://himanwithana.dev">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/himanwithana">LinkedIn</a> ·
-  <a href="https://x.com/d1v3xx">X</a> ·
-  <a href="mailto:himanhansadh.withana@gmail.com">Email</a>
-</p>
+### Omnichannel AI Messaging
+WhatsApp Business and Meta Messenger integrations with signature validation, deduplication, and async processing. Owned the compliance work that cleared Meta Business Verification.
+
+`Python` `FastAPI` `Meta Graph API` `Webhooks` `OAuth 2.0`
+
+</td>
+<td width="50%" valign="top">
+
+### AI Waste Management Platform
+NLP-driven collection platform pairing an intent classifier with a retrieval layer for conversational queries, plus demand forecasting and route optimization. First place, Cutting Edge 2025.
+
+`Python` `BiLSTM` `LangChain` `FAISS` `Flask`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Experience
+
+**Junior AI/ML Engineer** · Avya Technologies (Pvt) Ltd · *Feb 2026 - Aug 2026*
+<br/>Architected the backend behind a multi-tenant enterprise RAG platform serving live customers, and shipped its agentic tool-calling layer, messaging integrations, and commercial subscription tier.
+
+**Junior AI/ML Engineer, R&D** · Turbo Gen Consultancy (Pvt) Ltd · *Jul 2025 - Jan 2026*
+<br/>Delivered a production computer vision segmentation system from dataset engineering through to edge deployment, and automated the team's annotation pipeline.
+
+<br/>
+
+## Research
+
+**Uncertainty Calibration in Bayesian Optimization** · BSc (Hons) AI & Data Science, Robert Gordon University
+
+Investigating how miscalibrated model uncertainty degrades the sample efficiency of automated optimization, and which recalibration methods recover it.
+
+<br/>
+
+## Recognition
+
+![Cutting Edge](https://img.shields.io/badge/1st%20Place-Cutting%20Edge%202025-FFD700?style=flat-square)
+![NBQSA](https://img.shields.io/badge/Nominee-NBQSA%202025-C0C0C0?style=flat-square)
+![IEEEXtreme](https://img.shields.io/badge/IEEEXtreme-18.0-00629B?style=flat-square)
+
+<br/>
+
+## Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=HimanW&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak" />
+</div>
+
+<br/>
+
+<div align="center">
+
+**Open to AI/ML Engineer, AI Engineer, and Applied AI Engineer roles.**
+
+<a href="https://himanwithana.dev">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/himanwithana">LinkedIn</a> ·
+<a href="mailto:himanhansadh.withana@gmail.com">Email</a>
+
+</div>
